@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jalalive.candil.eu.org/sitemap.xml
